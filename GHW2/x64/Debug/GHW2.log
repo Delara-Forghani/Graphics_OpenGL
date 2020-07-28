@@ -1,0 +1,15 @@
+﻿  glad.c
+  Shader.cpp
+E:\Graphics\HW2\GHW2\GHW2\Shader.cpp(29,36): warning C4101: 'e': unreferenced local variable
+  Source.cpp
+  stb_image.cpp
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(198,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(204,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(211,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(217,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(232,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\HW2\GHW2\GHW2\stb_image.cpp(244,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  window.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GHW2.vcxproj -> E:\Graphics\HW2\GHW2\x64\Debug\GHW2.exe
