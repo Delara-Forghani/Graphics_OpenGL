@@ -1,2 +1,0 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  GHW1.vcxproj -> E:\Graphics\HW1\GHW1\x64\Debug\GHW1.exe
